@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sleep Debt Data Mining
 
 An interactive web application that analyzes sleep habits and predicts sleep debt categories using machine learning. The application combines a Python FastAPI backend with a React frontend to provide data exploration, visualizations, model evaluation, and individual predictions.
@@ -131,3 +132,7 @@ The application loads the trained model from `backend/models/best_model.joblib`.
 ## License
 
 No license has been specified yet.
+=======
+# Sleep-Debt-Data-Mining
+Interactive Sleep Debt Data Mining web application using Python, FastAPI, React, and machine learning for data analysis, visualization, model comparison, and sleep debt prediction.
+>>>>>>> origin/main
